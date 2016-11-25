@@ -1,0 +1,12 @@
+<resources>
+    <!--
+    * Author: Rui Min
+    * Created by Ray on 3/04/2016.
+    * Contains all margins and sizes
+    -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="button_margin">1dp</dimen>
+    <dimen name="button_width">44dp</dimen>
+    <dimen name="button_height">30dp</dimen>
+</resources>

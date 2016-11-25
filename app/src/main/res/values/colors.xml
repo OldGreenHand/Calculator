@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+* Author: Rui Min
+* Created by Ray on 3/04/2016.
+* Contains all colors used.
+-->
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorNum">#F3F3F3</color>color>
+    <color name="colorFun">#CCCCCC</color>color>
+    <color name="colorOperator">#87CEEB</color>color>
+</resources>
